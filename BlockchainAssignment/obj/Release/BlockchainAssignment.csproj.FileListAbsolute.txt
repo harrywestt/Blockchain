@@ -1,0 +1,9 @@
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\bin\Release\BlockchainAssignment.exe.config
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\bin\Release\BlockchainAssignment.exe
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\bin\Release\BlockchainAssignment.pdb
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\obj\Release\BlockchainAssignment.BlockchainApp.resources
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\obj\Release\BlockchainAssignment.Properties.Resources.resources
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\obj\Release\BlockchainAssignment.csproj.GenerateResource.cache
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\obj\Release\BlockchainAssignment.csproj.CoreCompileInputs.cache
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\obj\Release\BlockchainAssignment.exe
+C:\Users\harry\OneDrive\Desktop\BlockchainAssignment\BlockchainAssignment\obj\Release\BlockchainAssignment.pdb
