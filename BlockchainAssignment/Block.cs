@@ -102,6 +102,10 @@ namespace BlockchainAssignment
             {
                 difficulty--; // Difficulty goes down if the benchmark is smaller than the amount of time it took to get the hash
             }
+            else if(ts.Seconds < benchmark / 2)
+            {
+                difficulty++; // Difficulty goes up
+            }
             return CreateHash();  // Returns the hash
         }
 
